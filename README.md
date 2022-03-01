@@ -1,8 +1,8 @@
 <img width="100px" height="100px" align="right" src="https://user-images.githubusercontent.com/98564118/156264746-1a4c137e-617f-45df-895f-2dd1a8ce1e28.png">  <h1 align="center"> Página de Login e Cadastro </h1>
 ## Introdução
 Página Web de Login e Cadastro para o estudo de HTML e CSS.
-* Na tela de Login ao clicar em Criar Conta o Usuário é direcionado para a página de Cadastro.
-* Na tela de Cadastro ao clicar em Fazer Login o Usuário é direcionado para a página de Login.
+* Na tela de Login ao clicar em Criar Conta, o Usuário é direcionado para a página de Cadastro.
+* Na tela de Cadastro ao clicar em Fazer Login, o Usuário é direcionado para a página de Login.
 
 
 ## Techs
